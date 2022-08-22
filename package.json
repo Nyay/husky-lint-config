@@ -4,7 +4,8 @@
   "description": "Testing Husky + Lint Staget + Prettier configuration with base html page",
   "main": "src/index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "lint": "lint-staged"
   },
   "repository": {
     "type": "git",
